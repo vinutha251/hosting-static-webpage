@@ -12,5 +12,5 @@ This project demonstrates basic web development concepts and interaction.
 - **Responsive Layout**: Works on desktop and mobile.  
 - **Interactive JavaScript**: Button shows a message when clicked.
 
-## Project Structure
+
 
