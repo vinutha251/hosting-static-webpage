@@ -1,2 +1,16 @@
 # hosting-static-webpage
-Hosting a static webpage on **GitHub Pages** lets you publish HTML, CSS, and JavaScript files directly from a GitHub repository. Once enabled in the repo settings, your site gets a free public URL that updates automatically with each commit.
+# My First Web Project
+
+A simple static website built with **HTML, CSS, and JavaScript**.  
+This project demonstrates basic web development concepts and interaction.
+
+## Features
+
+- **Home Section**: Welcome message and interactive button.  
+- **About Section**: Project details and skills demonstrated.  
+- **Contact Section**: Simple contact form (non-functional, for demo).  
+- **Responsive Layout**: Works on desktop and mobile.  
+- **Interactive JavaScript**: Button shows a message when clicked.
+
+## Project Structure
+
